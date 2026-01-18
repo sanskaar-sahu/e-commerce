@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+:root{
+  --beidge : #F5F5DC 
+}
+
+body{
+  padding: 0;
+  margin: 0;
+  scroll-behavior: smooth;
+  background-color: rgb(236, 236, 218);
+}
